@@ -4,7 +4,7 @@
 - Django 2.x Books — https://books.agiliq.com/en/latest/README.html
 - [Classy Class-Based Views](https://ccbv.co.uk/)
 
-## Common used Django apps
+## Commonly used Django apps
 
 - [model_bakery](https://github.com/model-bakers/model_bakery)
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) `fetching fake data`
